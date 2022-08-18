@@ -2,6 +2,8 @@
 
 Convert HEIC to JPG
 
+**Note:** This is NOT the repo of the `heic-to-jpg` PyPI package.
+
 ## Install
 
 ### Requirements
